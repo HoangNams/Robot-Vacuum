@@ -5,7 +5,7 @@ using System.Collections;
 public class AutoVacuum2D : MonoBehaviour
 {
     [Header("Tốc độ")]
-    public float moveSpeed = 2f;               // Tốc độ di chuyển
+    public float moveSpeed = 2f;               
     public float rotationSpeed = 180f;         // Tốc độ quay (độ/giây)
 
     private Rigidbody2D rb;
